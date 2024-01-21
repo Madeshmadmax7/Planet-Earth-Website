@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(wallpaperflare.com_wallpaper\ \(26\).jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    background-color: black transparent;
+    padding: 11px;
+    padding-left: 25px;
+    margin: 0%;
+    color: white;
+    float: left;
+    font-family:'Courier New', Courier, monospace;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: black transparent;
+    margin: 0%;
+    padding-left: 550px;
+    justify-content: left;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    font-family:'Courier New', Courier, monospace;
+    font-size: larger;
+}
+.navbar li{
+    float: left;
+}
+.navbar a:hover{
+    background-color: hsla(0, 1%, 28%, 0.916);
+}
+.content{
+    padding-top: 10%;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+#home{
+    justify-content: center;
+    margin-left:250px;
+    padding: 20px;
+}
+.homecontent{
+    margin-top: 10%;
+    text-align: center;
+    justify-content: center;
+    color: hsla(0, 0%, 100%, 0.888);
+    width: 80%;
+}
+.button a{
+    text-decoration: none;
+}
+.button{
+    margin-left: 85%;
+    justify-content: left;
+}
+.homecontent ul{
+    list-style-type: square;
+}
+
